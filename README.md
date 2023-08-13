@@ -1,6 +1,6 @@
 # Sample Hardhat Project
 
-## Deployed Contarct address on Polygon Mumbai: 0xe8e52A45C3a7876ab66178eFE7B387E74af17Ec2
+## Deployed Contract address on Polygon Mumbai: 0xe8e52A45C3a7876ab66178eFE7B387E74af17Ec2
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
